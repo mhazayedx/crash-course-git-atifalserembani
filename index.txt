@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Aina, let's code!
 Hello! See you later! 
+=======
+Hello Aina, let's code! 
+>>>>>>> branch-baru
